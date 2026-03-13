@@ -13,6 +13,7 @@ A biblioteca utilizada para as operações matriciais foi o NumPy.
 - Python 3.x  
 - NumPy  
 
+
 Instalação do NumPy:
 
 pip install numpy
